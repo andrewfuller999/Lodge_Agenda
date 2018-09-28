@@ -1,0 +1,4 @@
+blessings==1.7
+inquirer==2.5.1
+readchar==2.0.1
+six==1.11.0
